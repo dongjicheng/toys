@@ -1,5 +1,5 @@
 ## Gaussian Processes
-
+blog:https://zhuanlan.zhihu.com/p/75589452
 Here is the corresponding code repo of my blog post [Gaussian Processes](https://borgwang.github.io/ml/2019/07/28/gaussian-process.html) on GPs.
 Implement Gaussian Process Regression(GPR) with hyperparameters optimization and multi-input dimensional supporting.
 
